@@ -1,0 +1,11 @@
+C:\Users\ealbaps\Documents\myHTML\CS\testweb\bin\Debug\netcoreapp2.0\testweb.deps.json
+C:\Users\ealbaps\Documents\myHTML\CS\testweb\bin\Debug\netcoreapp2.0\testweb.runtimeconfig.json
+C:\Users\ealbaps\Documents\myHTML\CS\testweb\bin\Debug\netcoreapp2.0\testweb.runtimeconfig.dev.json
+C:\Users\ealbaps\Documents\myHTML\CS\testweb\bin\Debug\netcoreapp2.0\testweb.dll
+C:\Users\ealbaps\Documents\myHTML\CS\testweb\bin\Debug\netcoreapp2.0\testweb.pdb
+C:\Users\ealbaps\Documents\myHTML\CS\testweb\obj\Debug\netcoreapp2.0\testweb.csprojResolveAssemblyReference.cache
+C:\Users\ealbaps\Documents\myHTML\CS\testweb\obj\Debug\netcoreapp2.0\testweb.csproj.CoreCompileInputs.cache
+C:\Users\ealbaps\Documents\myHTML\CS\testweb\obj\Debug\netcoreapp2.0\testweb.AssemblyInfoInputs.cache
+C:\Users\ealbaps\Documents\myHTML\CS\testweb\obj\Debug\netcoreapp2.0\testweb.AssemblyInfo.cs
+C:\Users\ealbaps\Documents\myHTML\CS\testweb\obj\Debug\netcoreapp2.0\testweb.dll
+C:\Users\ealbaps\Documents\myHTML\CS\testweb\obj\Debug\netcoreapp2.0\testweb.pdb
